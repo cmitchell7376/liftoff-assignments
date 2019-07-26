@@ -32,11 +32,11 @@ Search: Users will be able to search inventory for a particular item.
 Manage User Account: Users will be able to update any info within their profile.
 
 ### Technologies
-Java
-Gradle
-Thymeleaf
-MySQL
-JavaScript
+Java,
+Gradle,
+Thymeleaf,
+MySQL,
+JavaScript,
 SpringBoot
 
 ### What I'll Have to Learn
